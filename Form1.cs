@@ -19,7 +19,7 @@ namespace Manipulacion_de_datos_LINQ
         {
             InitializeComponent();
         }
-
+        //cambia la direccion de BD y datos que quieras
         SqlConnection conexion = new SqlConnection(@"Data Source = (localdb)\topicos ; Initial Catalog = Juegos; Integrated Security = True");
 
         void limpiar()
