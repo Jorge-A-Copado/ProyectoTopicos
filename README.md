@@ -1,2 +1,3 @@
 # ProyectoTopicos
-## en el nombre del documento viene que hace o que parte es
+## Proyecto realizado para la materia de Tópicos avanzados de programación
+
