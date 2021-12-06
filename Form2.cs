@@ -128,22 +128,22 @@ namespace PathFinder
 
         private void button6_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("NEW WORLD ESTA EJECUTANDOSE", "NEW WORLD",MessageBoxButtons.OK);
+            MessageBox.Show("NEW WORLD ESTÁ EJECUTANDOSE", "NEW WORLD",MessageBoxButtons.OK);
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("BACK 4 BLOOD ESTA EJECUTANDOSE", "BACK 4 BLOOD", MessageBoxButtons.OK);
+            MessageBox.Show("BACK 4 BLOOD ESTÁ EJECUTANDOSE", "BACK 4 BLOOD", MessageBoxButtons.OK);
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("CS:GO ESTA EJECUTANDOSE", "COUNTER STRIKE:GLOBAL OFFENSIVE",  MessageBoxButtons.OK);
+            MessageBox.Show("CS:GO ESTÁ EJECUTANDOSE", "COUNTER STRIKE:GLOBAL OFFENSIVE",  MessageBoxButtons.OK);
         }
 
         private void button9_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("BATTLEFIELD V ESTA EJECUTANDOSE", "BATTLEFIELD V",  MessageBoxButtons.OK);
+            MessageBox.Show("BATTLEFIELD V ESTÁ EJECUTANDOSE", "BATTLEFIELD V",  MessageBoxButtons.OK);
         }
     }
 }
